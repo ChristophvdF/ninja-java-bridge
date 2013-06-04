@@ -1,0 +1,14 @@
+{
+  "name": "ninja-java-bridge",
+  "version": "1.0.0",
+  "description": "Allows you to write NinjaBlocks drivers in Java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Elliot Shepherd",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
